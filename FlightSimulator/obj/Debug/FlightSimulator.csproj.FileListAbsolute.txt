@@ -72,3 +72,31 @@ C:\Users\user\Downloads\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimu
 C:\Users\user\Downloads\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
 C:\Users\user\Downloads\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
 C:\Users\user\Downloads\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.dll
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.xml
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\Views\LeftScreen.g.cs
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\Views\LeftScreen.baml
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\Views\AutoPilotView.g.cs
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\Views\ManualView.g.cs
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\Views\AutoPilotView.baml
+C:\Users\user\source\repos\advande programming\FlightSimulator\FlightSimulator\obj\Debug\Views\ManualView.baml
